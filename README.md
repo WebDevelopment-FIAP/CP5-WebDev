@@ -86,4 +86,6 @@ Abra no navegador o endereço exibido pelo Vite, normalmente `http://localhost:5
 
 ## Integrantes
 
-- Adicione aqui os nomes e RMs dos integrantes do grupo.
+- Bruno Carreiro dos Santos, RM: 569423
+- Eduardo Bechara Medeiros Craveiro, RM: 571081
+- Gustavo Moita de Lima, RM: 569180
