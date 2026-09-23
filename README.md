@@ -1,6 +1,6 @@
 # GourmetOn
 
-Landing page para apresentação do aplicativo de delivery GourmetOn. O projeto foi desenvolvido para o Check-Point 05 de Web Development with JavaScript.
+Landing page para apresentação do aplicativo de delivery GourmetOn. O projeto foi desenvolvido para o Check-Point 05 de Web Development com JavaScript.
 
 ## Tecnologias
 
