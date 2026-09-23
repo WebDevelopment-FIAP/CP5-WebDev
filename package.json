@@ -1,0 +1,24 @@
+{
+  "name": "gourmeton",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.0.1",
+    "@fortawesome/free-brands-svg-icons": "^7.0.1",
+    "@fortawesome/free-solid-svg-icons": "^7.0.1",
+    "@fortawesome/react-fontawesome": "^3.1.0",
+    "@tailwindcss/vite": "^4.1.13",
+    "@vitejs/plugin-react": "^6.0.1",
+    "tailwindcss": "^4.1.13",
+    "vite": "^8.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {}
+}
